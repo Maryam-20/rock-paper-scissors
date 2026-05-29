@@ -5,32 +5,35 @@
 
 ## Description
 
-A simple console-based Rock Paper Scissors game built for the Odin Project. The game runs entirely perfectly in browser console and does not use any graphical user interface.
+A Rock Paper Scissors game built for the Odin Project. The game features an interactive web-based user interface with browser-based gameplay.
 
 ## Features
 
 - Play Rock Paper Scissors against the computer
-- Console input and output only
-- Simple and clear gameplay loop
+- Interactive web-based UI with buttons and text input
+- 5-round gameplay loop
+- Real-time score tracking
+- Visual feedback for each round result
 
 ## How to Run
 
-1. Open a terminal or command prompt.
-2. Navigate to the project folder:
-   ```bash
-   cd "c:\Maryam's File\Documents\Odin Project\rock-paper-scissors"
-   ```
-3. Run the game with Node.js:
-   ```bash
-   node index.js
-   ```
+1. Open the project folder in your file system.
+2. Open `index.html` in your web browser.
+3. Click the "Start Game" button to begin playing.
+4. Enter your choice (rock, paper, or scissors) in the input field and press Enter.
 
 ## Where to Run
 
-- Run in a console or terminal window.
-- No GUI is required or supported.
+- Run in any modern web browser (Chrome, Firefox, Safari, Edge, etc.)
+- Open the HTML file directly or serve it through a local server.
+
+- Alternative / Live demo
+- View live on GitHub Pages (once deployed): https://maryam-20.github.io/rock-paper-scissors
+- To deploy: push the project to a GitHub repo and enable GitHub Pages (or publish the repo to the gh-pages branch). Replace USERNAME and repo name with your details.
 
 ## Notes
 
-- Make sure Node.js is installed before running the game.
-- The game expects keyboard input in the terminal.
+- No Node.js installation required.
+- The game accepts keyboard input through the web interface.
+- Game results display in the browser window after each round.
+- GitHub page link will be added once launched.
